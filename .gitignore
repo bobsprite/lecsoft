@@ -1,0 +1,17 @@
+#xcode noise
+build/*
+*.pbxuser
+*.modelv3
+#old skool
+.svn
+#os x noise
+.DS_Store
+profile #xcode noise
+build/*
+*.pbxuser
+*.modelv3
+#old skool
+.svn
+#os x noise
+.DS_Store
+profile 
